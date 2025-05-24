@@ -1,4 +1,4 @@
-# pay_taps
+![Simulator Screenshot - iPhone 15 - 2025-05-24 at 15 00 37](https://github.com/user-attachments/assets/913ec2a9-feb7-4d22-b7ff-0ae26b43325b)# pay_taps
 
 # 💱 Currency Converter App
 
@@ -45,11 +45,11 @@ lib/
 │ ├── screens/
 
 │ └── widgets/
+
 └── main.dart
 screens
+![Simulator Screenshot - iPhone 15 - 2025-05-24 at 15 00 37](https://github.com/user-attachments/assets/56ded159-60dc-457f-9b2c-1dd763cf540a)
 ![Simulator Screenshot - iPhone 15 - 2025-05-24 at 15 00 52](https://github.com/user-attachments/assets/4f6d420f-6fc4-4a5d-8a5a-3f6eb87f6c61)
-![Simulator Screenshot - iPhone 15 - 2025-05-24 at 15 00 52](https://github.com/user-attachments/assets/bea04ebe-7dd2-4c47-a62c-869ca251db7c)
-
 
 ![Simulator Screenshot - iPhone 15 - 2025-05-24 at 13 59 14](https://github.com/user-attachments/assets/573d76e5-a6d3-4e48-a3eb-ddc8c1109958)
 
